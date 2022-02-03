@@ -106,7 +106,6 @@ services:
     icon: "fas fa-code-branch"
     items:
       - name: "Gitlab Luciatech"
-        #logo: "assets/tools/sample.png"
         logo: "https://github.com/NX211/homer-icons/raw/master/png/gitlab.png"
         subtitle: "Luciatech Cloud Gitlab"
         tag: "app"
@@ -116,7 +115,6 @@ services:
         subtitle: "GitHub"                                                                                                              
         tag: "app"                                                                                                                            
         url: "http://github.com"                                                                                                        
-        target: "_blank" # optional html a tag target attribute
         target: "_blank" # optional html a tag target attribute
       - name: "AdGuardHome"
         logo: "https://github.com/NX211/homer-icons/raw/master/png/adguardhome.png"
