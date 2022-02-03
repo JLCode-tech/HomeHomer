@@ -111,6 +111,12 @@ services:
         subtitle: "Luciatech Cloud Gitlab"
         tag: "app"
         url: "https://gitlab.com/luciatech"
+      - name: "GitHub"                                                                                                                   
+        logo: "https://github.com/NX211/homer-icons/raw/master/png/github.png"                                                           
+        subtitle: "GitHub"                                                                                                              
+        tag: "app"                                                                                                                            
+        url: "http://github.com"                                                                                                        
+        target: "_blank" # optional html a tag target attribute
         target: "_blank" # optional html a tag target attribute
       - name: "AdGuardHome"
         logo: "https://github.com/NX211/homer-icons/raw/master/png/adguardhome.png"
